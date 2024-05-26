@@ -24,7 +24,7 @@ li {
 #header {
   height: 330px;
   width: 100%;
-  position: fixed;
+  position: sticky;
   padding: 10px;
   top: 0;
   z-index: 2;
