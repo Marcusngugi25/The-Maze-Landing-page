@@ -67,3 +67,17 @@ li {
 ul {
   display: flex;
 }
+
+#footer {
+  height: 50px;
+  width: 100%;
+  background: #03410b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer p {
+  color: #fff;
+  font-size: 20px;
+}
